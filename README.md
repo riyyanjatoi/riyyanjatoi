@@ -6,7 +6,7 @@
 
 
 
-- 📚💻 I’m currently learning **Solidity and Ethereum Contracts**
+- 📚💻 **Backend-Driven Fullstack Engineer**
 
 - 📧📫 Email:-  **m.riyyan@proton.me**
 
