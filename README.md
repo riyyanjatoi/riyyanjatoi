@@ -6,7 +6,7 @@
 
 
 
-- 📚💻 **Backend-Driven Fullstack Engineer**
+- 📚💻 **Backend-Driven Fullstack Engineer, witha keen interest in Blockchain Technologies**
 
 - 📧📫 Email:-  **m.riyyan@proton.me**
 
