@@ -8,7 +8,7 @@
 
 - 📚💻 I’m currently learning **Solidity and Ethereum Contracts**
 
-- 📧📫 Email:-  **rayyankhalid007@outlook.com**
+- 📧📫 Email:-  **m.riyyan@proton.me**
 
 
 
