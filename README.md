@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riyyanjatoi/" target="blank"><img width="40" height="40" src="https://img.icons8.com/doodle/48/linkedin--v2.png" alt="linkedin--v2"/></a>
+<a href="https://www.linkedin.com/in/riyyanjatoi/" target="blank"><img width="40" height="40" src="https://img.icons8.com/doodle/96/linkedin--v2.png" alt="linkedin--v2"/></a>
 
-<a href="https://discord.com/users/1451452104991440940" target="blank"><img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/discord.png" alt="discord"/></a>
+<a href="https://discord.com/users/1451452104991440940" target="blank"><img width="40" height="40" src="https://img.icons8.com/doodle/96/discord-new-logo.png" alt="discord-new-logo"/></a>
 </p>
 
 
