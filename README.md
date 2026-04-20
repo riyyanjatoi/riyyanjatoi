@@ -14,10 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/riyyanjatoi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyyanjatoi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riyyanjatoi/" target="blank"><img width="40" height="40" src="https://img.icons8.com/doodle/48/linkedin--v2.png" alt="linkedin--v2"/></a>
 
-<a href="https://discord.com/users/1451452104991440940" target="blank"><img align="center" src="https://user-images.githubusercontent.com/34899572/216776599-335c40a0-8b43-46f7-a547-8a31da83de54.png" alt="@riyyanjatoi" height="40" width="40" /></a>
+<a href="https://discord.com/users/1451452104991440940" target="blank"><img width="40" height="40" src="https://img.icons8.com/3d-fluency/94/discord.png" alt="discord"/></a>
 </p>
+
 
 
 
