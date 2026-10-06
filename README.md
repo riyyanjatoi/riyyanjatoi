@@ -58,7 +58,7 @@ practices to build reliable and repeatable delivery workflows.
 
 <a href="https://www.linkedin.com/in/riyyanjatoi/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/></a>  
 <a href="https://discord.com/users/1451452104991440940" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/></a>  
-<a href="mailto:m.riyyan@proton.me"><img src="./assets/proton-mail.png" height="45" alt="Proton Mail"/></a>
+<a href="mailto:m.riyyan@proton.me"><img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" alt="Email"/></a>
 
 </div>
 
